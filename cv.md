@@ -19,6 +19,6 @@ Email: Annina.Darya@mail.de | Discord: Darya Annina (@anninadasha)
 
 - Education: School 2009-2018, Gymnasium 2018-2022 (in progress)
 - Programming languages: Java, Python, SQLite
-- [Solutions on Code wars](https://www.codewars.com/users/anninadasha/completed_solutions)
-- [Projects]()
+- [Solutions on Code wars](https://www.codewars.com/kata/reviews/607acdf72529c5000111fea4/groups/61c9fac9d397480001740b79)
+- [Projects](https://github.com/anninadasha/rsschool-cv/edit/gh-pages/cv.md)
 - English: C1 (Cambridge Certificate)
